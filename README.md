@@ -1,7 +1,16 @@
-- 👋 Hi, I’m Drew Winchester
-- 👀 I’m interested in learning anything code related.
-- I’m currently learning Python, Java, AHK, VBA, and G code(CNC language as well as Macro B)
-<!---
-Xwinchester/Xwinchester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Drew Winchester! 👋
+
+Welcome to my GitHub profile! I'm passionate about learning and exploring various coding languages and technologies, with a particular focus on manufacturing-related projects. I believe in harnessing the power of code to optimize and automate manufacturing processes.
+
+- Python 🐍
+
+- Java ☕
+
+- AHK (AutoHotkey) 🎮
+
+- VBA (Visual Basic for Applications) 📊
+
+- G code (CNC language) and Macro B 🛠️
+
+I enjoy diving into new coding projects and continuously expanding my knowledge. If you're interested in any of these languages or have any exciting projects, feel free to reach out!
+
