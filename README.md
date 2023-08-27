@@ -6,7 +6,10 @@ Welcome to my GitHub profile! I'm passionate about coding and its applications i
 
 Here are some of the languages and technologies I work with:
 
-- Python 🐍: For scripting, data analysis, and CAM-Assistant. 
+- Python 🐍: For scripting, data analysis, and CAM-Assistant.
+
+-  C# for Report Creation 📊: Crafting automated reporting solutions for CNC processes.
+  
 - Java ☕: Minimal experience in small projects
 
 - VBA (Visual Basic for Applications) 📊: Enhancing productivity in CNC report generation.
