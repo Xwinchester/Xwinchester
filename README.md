@@ -12,8 +12,8 @@ Here are some of the languages and technologies I work with:
   
 - Java ☕: Minimal experience in small projects
 
-- VBA 📊: Enhancing the setup sheets form Mastercam inside of Word.
+- VBA 📊: Enhancing the setup sheets from Mastercam inside of Word.
 
 - G code and Macro B 🛠️: CNC Machinist and Mastercam Programmer.
 
-I'm always eager to dive into new coding projects and explore innovative ways to improve CNC machining processes (or any process really). If you share my passion for coding in the world of CNC machining or have exciting projects in this field, please don't hesitate to reach out. Let's collaborate and push the boundaries of manufacturing technology together!
+I'm always eager to dive into new coding projects and explore innovative ways to improve CNC machining processes (or any process really). If you share my passion for coding in the world of CNC machining or have exciting projects in this field, please don't hesitate to reach out.
