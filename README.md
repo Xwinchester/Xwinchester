@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m passionate about coding and its applications in CNC machining. My philosophy is to work smarter, not harder, by automating processes whenever possible to improve efficiency and repetitive tasks.
 
-## My Coding Toolkit 🛠
+## My Coding Toolkit 
 
 Here are some of the languages and technologies I work with:
 
