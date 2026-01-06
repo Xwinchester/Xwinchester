@@ -8,7 +8,7 @@ Here are some of the languages and technologies I work with:
 
 - **Python** : For all things currently, Most enjoyable language I am currently working with
 
-- **C#** : Automating parts of the setup sheet process for CNC programs using of Active Reports.
+- **C#** : Automating parts of the setup sheet process for CNC programs using Active Reports.
   
 - **Java** : Minimal experience in small projects
 
@@ -16,4 +16,4 @@ Here are some of the languages and technologies I work with:
 
 - **Macro B** : CNC Machinist and Programmer.
 
-I'm always eager to dive into new coding projects and explore innovative ways to improve CNC machining processes (or any process really). If you share my passion for coding in the world of CNC machining or have exciting projects in this field, please don't hesitate to reach out.
+I'm always eager to dive into new coding projects and explore innovative ways to improve CNC machining processes (or any process really). 
